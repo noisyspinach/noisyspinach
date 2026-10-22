@@ -2,6 +2,8 @@
 i'm **dotun/noisyspinach** and i enjoy programming.
 i've been coding since i was around 10.
 
+python stinks gradle stinks
+
 ## things i use:
 
 <div align="center">
