@@ -25,6 +25,7 @@ python stinks gradle stinks
 
 ## what i'm working on
 [hymenia](https://hymenia.dotun.cc)
+[lichenic](https://github.com/lichenic)
 
 i do have some side projects but they aren't exactly open source,,,
 
